@@ -104,30 +104,21 @@ The open-loop frequency response was analyzed to determine the DC gain, unity-ga
 
 The theoretical slew rate is calculated using:
 
-\[
-SR = \frac{I}{C_L}
-\]
+$$SR = \frac{I}{C_L}$$
 
 where:
-
-- \(I = 15\,\mu A\)
-- \(C_L = 0.2\,pF\)
+* $I = 15 \text{ }\mu\text{A}$
+* $C_L = 0.2\text{ pF}$
 
 Therefore,
 
-\[
-SR = \frac{15\times10^{-6}}{0.2\times10^{-12}}
-\]
+$$SR = \frac{15 \times 10^{-6}}{0.2 \times 10^{-12}}$$
 
-\[
-SR = 75\times10^6\ V/s
-\]
+$$SR = 75 \times 10^6\text{ V/s}$$
 
 Hence,
 
-\[
-\boxed{SR = 75\ V/\mu s}
-\]
+$$SR = 75\text{ V/}\mu\text{s}$$
 
 **The calculated theoretical slew rate is 75 V/µs.**
 
